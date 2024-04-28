@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527190938247",
+    "project_id": "pristinefulfilhybridseedapp",
+    "storage_bucket": "pristinefulfilhybridseedapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527190938247:android:1de21cc43f593669c31e22",
+        "android_client_info": {
+          "package_name": "com.pristine.pristine_seeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHiEVJDqNkbm3hFGZbVNohRyiaWPp7nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
